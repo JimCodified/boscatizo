@@ -1,0 +1,140 @@
+{
+    "toolCategories": [
+        {
+            "id": 0,
+            "category": "drill" 
+        },
+        {
+            "id": 1,
+            "category": "saw" 
+        },
+        {
+            "id": 2,
+            "category": "air compressor" 
+        },
+        {
+            "id": 3,
+            "category": "planer" 
+        },
+        {
+            "id": 4,
+            "category": "vacuum" 
+        },
+        {
+            "id": 5,
+            "category": "wrench" 
+        },
+        {
+            "id": 6,
+            "category": "blaster" 
+        },
+        {
+            "id": 7,
+            "category": "drill press" 
+        },
+        {
+            "id": 8,
+            "category": "jointer" 
+        },
+        {
+            "id": 9,
+            "category": "drill" 
+        },
+        {
+            "id": 10,
+            "category": "biscuit joiner" 
+        },
+        {
+            "id": 11,
+            "category": "glue gun" 
+        },
+        {
+            "id": 12,
+            "category": "grinder" 
+        },
+        {
+            "id": 13,
+            "category": "impact driver" 
+        },
+        {
+            "id": 14,
+            "category": "impact wrench" 
+        },
+        {
+            "id": 15,
+            "category": "lathe" 
+        },
+        {
+            "id": 16,
+            "category": "milling" 
+        },
+        {
+            "id": 17,
+            "category": "nailer" 
+        },
+        {
+            "id": 18,
+            "category": "stapler" 
+        },
+        {
+            "id": 19,
+            "category": "polisher" 
+        },
+        {
+            "id": 20,
+            "category": "ratchet" 
+        },
+        {
+            "id": 21,
+            "category": "blower" 
+        },
+        {
+            "id": 22,
+            "category": "rotary" 
+        },
+        {
+            "id": 23,
+            "category": "router" 
+        },
+        {
+            "id": 24,
+            "category": "sand blaster" 
+        },
+        {
+            "id": 25,
+            "category": "sander" 
+        },
+        {
+            "id": 26,
+            "category": "screwdriver" 
+        },
+        {
+            "id": 27,
+            "category": "shears" 
+        },
+        {
+            "id": 28,
+            "category": "axe" 
+        },
+        {
+            "id": 29,
+            "category": "vise" 
+        },
+        {
+            "id": 30,
+            "category": "caulking" 
+        },
+        {
+            "id": 31,
+            "category": "chisel" 
+        },
+        {
+            "id": 32,
+            "category": "clamp" 
+        },
+        {
+            "id": 33,
+            "category": "crimper" 
+        }
+    ]
+}
